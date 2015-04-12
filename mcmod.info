@@ -1,0 +1,19 @@
+[
+{
+"modid": "MiniIvPlaneFighter",
+"name": "Mini: Plane Fighter",
+"description": "Plane Fighters! Fly around and assault your enemies from the air!",
+"version": "1.0",
+"credits": "Created by Ivorius",
+"logoFile": "/gfx/planefighter/logo.png",
+"mcversion": "1.6.4",
+"url": "http://www.minecraftforum.net/topic/563257-152#MiniMods",
+"updateUrl": "",
+"authors": [ "Ivorius", "TripleHeadedSheep", "PBat" ],
+"parent":"",
+"screenshots": [],
+"dependencies": [
+"mod_MinecraftForge"
+]
+}
+]
